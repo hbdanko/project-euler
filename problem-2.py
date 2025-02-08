@@ -10,5 +10,4 @@ def even_fibonacci_numbers(ceiling):
 
     return sum
 
-
 print(even_fibonacci_numbers(4_000_000))
